@@ -1,0 +1,18 @@
+from turtle import *
+penup()
+color("black")
+backward(145)
+pendown()
+forward(275)
+right(90)
+forward(275)
+right(90)
+forward(275)
+right(90)
+forward(275)
+right(45)
+forward(170)
+right(120)
+forward(170)
+
+done()
