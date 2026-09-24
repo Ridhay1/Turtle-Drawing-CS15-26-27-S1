@@ -1,8 +1,10 @@
 from turtle import *
+step = 100
 speed(8)
 pensize(3)
 penup()
 color("black")
+forward(step)
 backward(145)
 pendown()
 forward(275)
